@@ -1,0 +1,6 @@
+{
+  "extends": ["universe/native", "universe/shared/typescript-analysis", "plugin:json/recommended"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
